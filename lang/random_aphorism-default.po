@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Random Aphorism\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-18 19:32+0600\n"
+"PO-Revision-Date: 2012-06-18 19:37+0600\n"
+"Last-Translator: FlyingLeafe <flyingleafe@gmail.com>\n"
+"Language-Team: FlyingLeafe <flyingleafe@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_n;_ex\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: aphorism.php:76
+#: aphorism.php:82
+msgid "Random Aphorism"
+msgstr ""
+
+#: aphorism.php:83
+msgid "Add new aphorism into list:"
+msgstr ""
+
+#: aphorism.php:86
+msgid "Added aphorisms:"
+msgstr ""
+
+#: aphorism.php:89
+msgid "Plugin settings:"
+msgstr ""
+
+#: aphorism.php:127
+msgid "Aphorism text:"
+msgstr ""
+
+#: aphorism.php:130
+msgid "Author:"
+msgstr ""
+
+#: aphorism.php:132
+msgid "Add"
+msgstr ""
+
+#: aphorism.php:174
+msgid "Delete"
+msgstr ""
+
+#: aphorism.php:209
+msgid "Aphorism shortcode:"
+msgstr ""
+
+#: aphorism.php:211
+msgid "Save"
+msgstr ""
+

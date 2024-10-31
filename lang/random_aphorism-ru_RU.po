@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Random Aphorism\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-18 20:07+0600\n"
+"PO-Revision-Date: 2012-06-18 20:09+0600\n"
+"Last-Translator: FlyingLeafe <flyingleafe@gmail.com>\n"
+"Language-Team: FlyingLeafe <flyingleafe@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_n;_ex\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: aphorism.php:34
+msgid "Лучше красиво делать, чем красиво говорить."
+msgstr ""
+
+#: aphorism.php:35
+msgid "Бенджамин Франклин"
+msgstr ""
+
+#: aphorism.php:76
+#: aphorism.php:82
+msgid "Random Aphorism"
+msgstr "Случайный афоризм"
+
+#: aphorism.php:83
+msgid "Add new aphorism into list:"
+msgstr "Добавить новый афоризм в список:"
+
+#: aphorism.php:86
+msgid "Added aphorisms:"
+msgstr "Добавленные афоризмы"
+
+#: aphorism.php:89
+msgid "Plugin settings:"
+msgstr "Настройки плагина:"
+
+#: aphorism.php:127
+msgid "Aphorism text:"
+msgstr "Текст афоризма:"
+
+#: aphorism.php:130
+msgid "Author:"
+msgstr "Автор:"
+
+#: aphorism.php:132
+msgid "Add"
+msgstr "Добавить"
+
+#: aphorism.php:158
+msgid "You don't have any added aphorisms yet"
+msgstr "Вы еще не добавили ни одного афоризма"
+
+#: aphorism.php:179
+msgid "Delete"
+msgstr "Удалить"
+
+#: aphorism.php:192
+msgid "You can show the random aphorism using shortcode <strong>[aphorism]</strong> in Posts or Pages, or hardcode it in PHP code using <strong>&lt;?php do_shortcode('[aphorism]'); ?&gt;</strong>."
+msgstr "Вы можете отобразить случайный афоризм, используя шорткод <strong>[aphorism]</strong> внутри записей и страниц, или же вывести его в PHP-коде с помощью <strong>&lt;?php do_shortcode('[aphorism]'); ?&gt;</strong>."
+
+#~ msgid "Aphorism shortcode:"
+#~ msgstr "Шорткод афоризма:"
+
+#~ msgid "Save"
+#~ msgstr "Сохранить"
